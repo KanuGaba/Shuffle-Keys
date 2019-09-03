@@ -1,0 +1,5 @@
+Perfects: 13
+Goods: 18
+Misses: 17
+Highest Combo: 11
+Score: 27
